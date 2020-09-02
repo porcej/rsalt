@@ -96,7 +96,6 @@ def main():
             pass
 
         hosts = list(set(hosts) - set(visited))
-        print(pprint(hosts))
 
 
 
